@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "426363338745",
+    "project_id": "live-821fe",
+    "storage_bucket": "live-821fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426363338745:android:59dbaab72c1f2de4358728",
+        "android_client_info": {
+          "package_name": "com.example.flutter_webrtc_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0Rchsnf43BX9EduLSCxQ-moc0rEUM1as"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
